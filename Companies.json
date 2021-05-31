@@ -1,0 +1,5 @@
+{"name":"DEF", "employeeCount":750, "isPublic":true}
+{"name":"UVW", "employeeCount":1500, "isPublic":false}
+{"name":"Hadoop World", "employeeCount":100, "isPublic":false}
+{"name":"Old School", "employeeCount":250, "isPublic":false}
+{"name":"Another Place", "employeeCount":900, "isPublic":false}
